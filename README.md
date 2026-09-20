@@ -7,10 +7,10 @@ An operational MIS dashboard built to track loan and credit application workflow
 ![Data Sheet](data_sheet_preview.png)
 
 ## 2. Pivot Table KPIs & Metrics
-![Pivot KPIs](kpis_preview.png)
+![Pivot KPIs](kpis_preview.png.png)
 
 ## 3. Graphical Representation & Visual Dashboard
-![Visual Dashboard](charts_preview.png)
+![Visual Dashboard](charts_preview.png.png)
 
 ## Key Business Metrics & Features
 - **Turnaround Time (TAT) Analysis:** Calculated processing duration across approval stages to identify operational bottlenecks.
